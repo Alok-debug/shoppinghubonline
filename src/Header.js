@@ -10,7 +10,7 @@ function Header() {
     <div className="header">
       <Link to="/">
         <img
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ghKpssGXQVD-C5bdw0NV6s-d5QIojhNcSQ&usqp=CAU"
+          src="https://cdn4.vectorstock.com/i/1000x1000/64/23/lion-head-logo-icon-on-black-background-vector-26566423.jpg"
           className="header__logo"
         />
       </Link>
