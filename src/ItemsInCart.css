@@ -1,0 +1,15 @@
+.itemsInCart{
+    display:flex;
+    background-color: violet;
+    margin: 10px;
+    border: 1px solid grey;
+}
+
+.product__image{
+    width: 15vw;
+    border-right: solid 1.5px yellow;
+}
+
+.checkout__button{
+    margin-bottom: 10px;
+}
