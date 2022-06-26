@@ -1,5 +1,5 @@
 .header {
-   height: 65px;
+   height: 70px;
    position: sticky;
    background-color: green;
    display: flex;
@@ -83,7 +83,7 @@
    }
 .header__cart:hover{
    background-color: black;
-   
+
 
 }
 
